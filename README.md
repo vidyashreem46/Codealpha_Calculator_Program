@@ -19,5 +19,4 @@ A simple calculator program written in C that performs basic arithmetic operatio
 2. Compile using: gcc calculator.c -o calculator
 3. Run using: ./calculator
 
-## Author
-Vidyashree M
+
